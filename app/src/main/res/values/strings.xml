@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">World of QR</string>
+    <string name="noteText">Note: Securely Generated QR text need \n to be Decrypted using \n appropriate Key after Scanning.</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="invalid_email">Enter a Valid Email</string>
+    <string name="invalid_password">Please Enter a Valid Password</string>
+</resources>

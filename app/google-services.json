@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "502913336160",
+    "project_id": "world-or-qr",
+    "storage_bucket": "world-or-qr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502913336160:android:5977498200ecb8358cd405",
+        "android_client_info": {
+          "package_name": "com.example.worldofqr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcwX412VitdHk2aD9iCZvZ4zncPYtE5yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
